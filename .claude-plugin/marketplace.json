@@ -1,23 +1,23 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "antigravity-awesome-skills",
-  "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
   "owner": {
     "name": "hardyvdm",
     "email": "hardyvdm@users.noreply.github.com"
   },
+  "metadata": {
+    "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
+    "version": "7.7.0"
+  },
   "plugins": [
     {
       "name": "antigravity-awesome-skills",
+      "version": "7.7.0",
       "description": "Expose the repository's curated skills tree to Claude Code — 1,254+ reusable skills across coding, security, design, product, and operations.",
       "author": {
         "name": "sickn33 and contributors",
         "email": "sickn33@users.noreply.github.com"
       },
-      "source": {
-        "source": "url",
-        "url": "https://github.com/hardyvdm/antigravity-awesome-skills.git"
-      },
+      "source": ".",
       "homepage": "https://github.com/hardyvdm/antigravity-awesome-skills",
       "category": "productivity"
     }

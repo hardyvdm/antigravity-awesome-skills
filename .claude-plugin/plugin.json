@@ -4,10 +4,10 @@
   "description": "Universal agentic skill library for Claude Code with 1,254+ reusable skills across coding, security, design, product, and operations workflows.",
   "author": {
     "name": "sickn33 and contributors",
-    "url": "https://github.com/sickn33/antigravity-awesome-skills"
+    "url": "https://github.com/hardyvdm/antigravity-awesome-skills"
   },
-  "homepage": "https://github.com/sickn33/antigravity-awesome-skills",
-  "repository": "https://github.com/sickn33/antigravity-awesome-skills",
+  "homepage": "https://github.com/hardyvdm/antigravity-awesome-skills",
+  "repository": "https://github.com/hardyvdm/antigravity-awesome-skills",
   "license": "MIT",
   "keywords": [
     "claude-code",
