@@ -1,13 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "antigravity-awesome-skills",
+  "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
   "owner": {
-    "name": "hardyvdm",
-    "url": "https://github.com/hardyvdm/antigravity-awesome-skills"
-  },
-  "metadata": {
-    "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
-    "version": "7.7.0"
+    "name": "hardyvdm"
   },
   "plugins": [
     {
