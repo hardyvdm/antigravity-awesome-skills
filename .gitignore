@@ -9,7 +9,7 @@ __pycache__/
 antigravity-awesome-skills-*.tgz
 
 .agent/rules/
-.claude-plugin/
+# .claude-plugin excluded (marketplace.json tracked explicitly via git add -f)
 .codex/
 .gemini/
 .release-clone-*/
