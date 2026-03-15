@@ -3,31 +3,23 @@
   "name": "antigravity-awesome-skills",
   "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
   "owner": {
-    "name": "hardyvdm"
+    "name": "hardyvdm",
+    "email": "hardyvdm@users.noreply.github.com"
   },
   "plugins": [
     {
       "name": "antigravity-awesome-skills",
-      "version": "7.7.0",
-      "description": "Expose the repository's curated `skills/` tree to Claude Code through a single plugin marketplace entry.",
+      "description": "Expose the repository's curated skills tree to Claude Code — 1,254+ reusable skills across coding, security, design, product, and operations.",
       "author": {
         "name": "sickn33 and contributors",
-        "url": "https://github.com/sickn33/antigravity-awesome-skills"
+        "email": "sickn33@users.noreply.github.com"
       },
-      "homepage": "https://github.com/hardyvdm/antigravity-awesome-skills",
-      "repository": "https://github.com/hardyvdm/antigravity-awesome-skills",
-      "license": "MIT",
-      "keywords": [
-        "claude-code",
-        "skills",
-        "agentic-skills",
-        "plugin",
-        "marketplace"
-      ],
       "source": {
         "source": "url",
         "url": "https://github.com/hardyvdm/antigravity-awesome-skills.git"
-      }
+      },
+      "homepage": "https://github.com/hardyvdm/antigravity-awesome-skills",
+      "category": "productivity"
     }
   ]
 }
