@@ -2,8 +2,8 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "antigravity-awesome-skills",
   "owner": {
-    "name": "sickn33 and contributors",
-    "url": "https://github.com/sickn33/antigravity-awesome-skills"
+    "name": "hardyvdm",
+    "url": "https://github.com/hardyvdm/antigravity-awesome-skills"
   },
   "metadata": {
     "description": "Single-plugin Claude Code marketplace entry for the Antigravity Awesome Skills library.",
@@ -18,8 +18,8 @@
         "name": "sickn33 and contributors",
         "url": "https://github.com/sickn33/antigravity-awesome-skills"
       },
-      "homepage": "https://github.com/sickn33/antigravity-awesome-skills",
-      "repository": "https://github.com/sickn33/antigravity-awesome-skills",
+      "homepage": "https://github.com/hardyvdm/antigravity-awesome-skills",
+      "repository": "https://github.com/hardyvdm/antigravity-awesome-skills",
       "license": "MIT",
       "keywords": [
         "claude-code",
@@ -30,7 +30,7 @@
       ],
       "source": {
         "source": "url",
-        "url": "https://github.com/sickn33/antigravity-awesome-skills.git"
+        "url": "https://github.com/hardyvdm/antigravity-awesome-skills.git"
       }
     }
   ]
